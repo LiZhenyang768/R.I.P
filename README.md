@@ -7,7 +7,7 @@ This is the first repo I am making for stephen
 I want to die
 I want to die
 I want to die
-**My name is Li Zhenyang** 
+**My name is ** 
 
 *Damn* 
 How to insesrt an image, use ![]()
